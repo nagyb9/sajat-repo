@@ -1,4 +1,5 @@
 /* eslint-env node */
+/* asdasdasda */
 'use strict';
 
 module.exports = {
